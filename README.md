@@ -30,7 +30,7 @@
 
 I am a Business Excellence Consultant and learning Data Science from Hyderbad-India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
 
-- :telescope: I’m learning datascience and contributing to Statistics, Analytics, Machine Learning and Deep Learning.
+- :telescope: I’m learning Analytics and Data Science.
 
 - :seedling: Love to explore Technical Contents and latest Technologies.
 
