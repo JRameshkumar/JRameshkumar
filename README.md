@@ -1,6 +1,6 @@
 <p>I'm Ramesh and have experienced working in Engineering Product Development, Delivery management, Program Management and Business Excellence areas.</p>
 
-<p>:technologist: When I'm not at work, you can often find me coding, learning new stuff, and honing my skills on various areas including :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Data Science and :eight_spoked_asterisk: Data Analysis |  Visualization projects.</p>
+<p>When I'm not at work, you can often find me coding, learning new stuff, and honing my skills on various areas including :eight_spoked_asterisk: Machine Learning, :eight_spoked_asterisk: Data Science and :eight_spoked_asterisk: Data Analysis |  Visualization projects :eight_spoked_asterisk: Love to explore Technical Contents and latest Technologies.</p>
 
 I also love working with different technologies & platforms and my current favorite ones are
 - MySQL
@@ -8,33 +8,9 @@ I also love working with different technologies & platforms and my current favor
 - Power BI
 - Power Automate
 - Tableau
-<div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 
-
-### :man_technologist: About Me :
-
-I am a Business Excellence Consultant and learning Data Science from Hyderbad-India.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
-
-- :telescope: I’m learning Analytics and Data Science.
-
-- :seedling: Love to explore Technical Contents and latest Technologies.
-
-- :zap: In my free time, I solve problems and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rameshkumar-jallepalli-a649097b/)
-
+- :mailbox:How to reach me:  (https://www.linkedin.com/in/rameshkumar-jallepalli-a649097b/)
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="60" height="60"/>&nbsp;
