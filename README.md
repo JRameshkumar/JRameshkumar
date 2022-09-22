@@ -4,6 +4,7 @@
 
 I also love working with different technologies & platforms and my current favorite ones are
 - MySQL
+-SnowFlake
 - Python
 - Power BI
 - Power Automate
